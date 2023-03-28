@@ -6,9 +6,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Live Site URL: [Finished project link](https://fem-toolboxal-stats-preview-card.netlify.app/)
 
 ### Built with
 
